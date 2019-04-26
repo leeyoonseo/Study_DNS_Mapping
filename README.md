@@ -1,11 +1,8 @@
 # Study_DNS_Mapping
 
-GitHub과 DOTHOME DNS Mapping하기
-================================
-
-## GitHub에 Repository 설정
-
-### Repository Settings
+## [GitHub과 DOTHOME DNS Mapping하기]
+*****
+### 1. Repository Settings
 <pre><code>
 1. Repository에서 Settings를 클릭하여 Settings 페이지로 갑니다.
 2. 페이지 하단에서 GitHub Pages 영역의 Source 부분을 수정해 줍니다.
@@ -13,7 +10,7 @@ GitHub과 DOTHOME DNS Mapping하기
 3. 새로고침이 되면 다시 하단 GitHub Pages 영역의 Custom domain 작성란에 도메인 네임을 넣고 Save해줍니다.
 </code></pre>
 
-### GitHub IP 복사하기
+### 2. GitHub IP 복사하기
 <pre><code>
 1. Custom domain 영역의 설명글에 있는 링크 (Learn more)을 클릭합니다.
 2. 이동 된 페이지에서 setting up an apex domain을 검색해서 클릭하여 페이지 이동을 합니다.
@@ -21,7 +18,7 @@ GitHub과 DOTHOME DNS Mapping하기
 4. IP를 확인합니다.
 </code></pre>
 
-### DNS 호스팅 설정
+### 3. DNS 호스팅 설정
 <pre><code>
 1. DOTHOME 사이트에서 '마이닷홈'을 눌러 사용자 페이지로 이동합니다.
 2. DNS관리 > DNS 레코드 관리 > 레코드 추가 해줍니다.
