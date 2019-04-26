@@ -1,7 +1,7 @@
 # Study_DNS_Mapping
 
 ## [GitHub과 DOTHOME DNS Mapping하기]
-*****
+
 ### 1. Repository Settings
 <pre><code>1. Repository에서 Settings를 클릭하여 Settings 페이지로 갑니다.
 2. 페이지 하단에서 GitHub Pages 영역의 Source 부분을 수정해 줍니다.
@@ -24,7 +24,8 @@
 --- 위키디피아 : https://ko.wikipedia.org/wiki/Time_to_live
 --- 생활코딩 : https://opentutorials.org/course/697/3839 ttl을 검색해보세요! ttl과 캐싱에 대한 설명이 있습니다.
 3. GitHub의 IP를 값 영역에 넣어줍니다.
-- 다 등록해도되고 하나만 해도 되는데, 여러개 등록할 경우 해당 서버에 이상이 생겼을 경우 이상이 없는 서버로 연결이 가능하다고 합니다.
+- 다 등록해도되고 하나만 해도 되는데, 
+  여러개 등록할 경우 해당 서버에 이상이 생겼을 경우 이상이 없는 서버로 연결이 가능하다고 합니다.
 4. 추가하기를 눌러 해당 도메인으로 접근해봅니다.
 5. 수정하여 반영이 된 것을 확인합니다.
 - 실시간 반영은 아닌 것 같고 약간의 시간차가 생기는것으로 확인했습니다.</code></pre>
